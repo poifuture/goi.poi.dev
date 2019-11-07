@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.tsx"],"names":[],"mappings":"6FAAA,4CAGe,4BACb,6BACE,kBAAC,IAAD,MADF","file":"component---src-pages-404-tsx-76a9d3a2501f0744dcb9.js","sourcesContent":["import React from \"react\"\nimport NavBar from \"../components/NavBar\"\n\nexport default () => (\n  <div>\n    <NavBar />\n    404 Page\n  </div>\n)\n"],"sourceRoot":""}
