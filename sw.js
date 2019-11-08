@@ -27,59 +27,59 @@ workbox.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "4a911d33b86ae8e925169f615f2614df"
+    "revision": "11fe3743f59a9394da37c1d0f1939112"
   },
   {
     "url": "404/index.html",
-    "revision": "c4586ca748826d2a7823ed5e8db1d6c6"
+    "revision": "eac9bf3a6d83687877aa2a3e19328578"
   },
   {
     "url": "dev/index.html",
-    "revision": "d83e704d12df7294d482225ea2ccbb35"
+    "revision": "d24ae581293feee886750b332d5df698"
   },
   {
     "url": "dumpdata/index.html",
-    "revision": "c0e536a43a761c57536bc0b2c22d069a"
+    "revision": "4761cb2f6ba8a5c28901b074a89403f0"
   },
   {
     "url": "en/index.html",
-    "revision": "0eec06a56ac4822f2f2e4e1c6e00808e"
+    "revision": "dd3b8bf72c49a7feea366cc100ea911f"
   },
   {
     "url": "index.html",
-    "revision": "4ed623539070ee84aebd2bcb4f1f737e"
+    "revision": "bbbabf907431292e98eb40e822b6b2e6"
   },
   {
     "url": "mamechishiki/index.html",
-    "revision": "df6fa77914f7ea84279ca979562604e2"
+    "revision": "e052f7e37843c1602a1f0b3ef4477a76"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "45d1b48ec36ae39ca9742f54d8081480"
+    "revision": "56ebc6fd259e2775a43c47b1df45e8cd"
   },
   {
     "url": "profile/index.html",
-    "revision": "a2db4310d0dbf446145f1f7a82d4f6ca"
+    "revision": "ff59e930322db94dec0fcae1b51e06e1"
   },
   {
     "url": "tegami/index.html",
-    "revision": "1a6a5f5431c49ef11492f1bc471498c1"
+    "revision": "bb4ea162a958f6a77c405a24b72fa084"
   },
   {
     "url": "zh-cn/index.html",
-    "revision": "e34d6f6661e50393be85ea1e0c4d6b3b"
+    "revision": "cf3b6ed7318098d4627094a8b4e48bfc"
   },
   {
     "url": "zh-hans-c2/index.html",
-    "revision": "ffabea7b56f0f0eed58e6d42d7110ae8"
+    "revision": "b314b1a0ea26e4bc2e7bb529ebaf3e70"
   },
   {
     "url": "zh-hans/index.html",
-    "revision": "7cbd61cca6c9dc81cfc4b3dc7818a813"
+    "revision": "2c3eea9f828208613bc52cd7ecf0473c"
   },
   {
     "url": "zh/index.html",
-    "revision": "671d5cf6b74c1f0ba2a81c6e1b1bf33a"
+    "revision": "d7ef759801a461f50a033640f8680332"
   },
   {
     "url": "0-97cb340079186fb6ac6e.js"
@@ -146,6 +146,9 @@ self.__precacheManifest = [
   },
   {
     "url": "component---src-pages-index-tsx-91978052222b832e6c11.js"
+  },
+  {
+    "url": "component---src-pages-index-tsx-9cca9df74933b13f71e8.js"
   },
   {
     "url": "component---src-pages-index-tsx-d16e530368a746b9cdc3.js"
@@ -223,6 +226,9 @@ self.__precacheManifest = [
     "url": "webpack-runtime-83e8bb292f717d1f36fc.js"
   },
   {
+    "url": "webpack-runtime-95664749dec0ddf10d79.js"
+  },
+  {
     "url": "webpack-runtime-98532ec458d7a84acff3.js"
   },
   {
@@ -230,7 +236,7 @@ self.__precacheManifest = [
   },
   {
     "url": "chunk-map.json",
-    "revision": "f28a69ec514fa2678753c3a078261125"
+    "revision": "c31f36155d9351fd0831d716561c740a"
   },
   {
     "url": "locales/zh-hans-c2/CommandsBar.json",
@@ -274,7 +280,7 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "3e105814b1d9b1cd060068ae5b9f7a25"
+    "revision": "b09e91b28a1ab2b853b6028ee3cf49f1"
   },
   {
     "url": "page-data/dev-404-page/page-data.json",
@@ -330,7 +336,7 @@ self.__precacheManifest = [
   },
   {
     "url": "webpack.stats.json",
-    "revision": "30d296e02380000a223a39f28d7dfad4"
+    "revision": "3458ae10848b5a1e3f62918f3b85be45"
   },
   {
     "url": "manifest.webmanifest",
